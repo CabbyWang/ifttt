@@ -1,0 +1,8 @@
+# ide
+.vscode
+
+# .pyc
+__pycache__
+
+# config
+secure.py
